@@ -1,0 +1,11 @@
+E:\winform\QLBH\QLBH\bin\Debug\QLBH.exe.config
+E:\winform\QLBH\QLBH\bin\Debug\QLBH.exe
+E:\winform\QLBH\QLBH\bin\Debug\QLBH.pdb
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.frm_category.resources
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.exe
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.pdb
+E:\winform\QLBH\QLBH\obj\Debug\QLBH.Product.resources
